@@ -1,0 +1,5 @@
+# Project exclude paths
+/s2Basics/target/
+/s3MoreAdvanced/target/
+/s4Additional/target/
+/s5Exercise/target/
